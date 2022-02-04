@@ -1,11 +1,19 @@
 {
-    "users": [{
-        "id":1,
-        "name": "Serj Tankian",
-        "email": "serjt@soad.com"
-    }, {
-        "id": 2,
-        "name": "Adam Gontier",
-        "email": "adamg@sa.com"
-    }]
+  "users": [
+    {
+      "id": 2,
+      "name": "Adam Gontier",
+      "email": "adamg@sa.com"
+    },
+    {
+      "name": "Benjamin Burley",
+      "email": "benjb@bb.com",
+      "id": 3
+    },
+    {
+      "name": "John",
+      "email": "john@skillet.com",
+      "id": 4
+    }
+  ]
 }
